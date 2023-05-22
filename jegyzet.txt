@@ -1,0 +1,13 @@
+Tesztelési keretrendszer: JEST
+azokat az állományokat fogja futtatni amik az alábbi kritériumnak megfelelnek
+
+bárhol található "__tests__" mappában / annak almappáiban lévő javascript / javascriptre épülő fájlok
+
+olyan javascript / javascriptre épülő fájlok amik neve ".spec" vagy ".test" -re végződik
+
+Javascriptre épülő fájl kiterjesztések:
+
+.js
+.ts (typescript)
+.jsx (react keretrendszer kiterjesztése (egyedi szintakszis, html a javascriptben))
+.tsx (react typescripttel)

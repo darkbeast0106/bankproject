@@ -1,0 +1,18 @@
+{
+  "name": "bankproject",
+  "version": "1.0.0",
+  "description": "BMSZC Petrik Lajos technikum egységtesztelést bemutató projektje",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "unittesting",
+    "jest"
+  ],
+  "author": "Petrik",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
